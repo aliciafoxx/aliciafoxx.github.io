@@ -50,5 +50,7 @@ extra:
       link: https://github.com/aliciafoxx
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/alicia-foxx-phd-648605205/
+    - icon: fontawesome/brands/fa-google-scholar
+    - link: https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en
 copyright: |
   &copy; 2025 <a href="https://github.com/aliciafoxx"  target="_blank" rel="noopener">Alicia Foxx</a>
