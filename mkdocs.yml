@@ -4,11 +4,9 @@ site_author: Alicia Foxx
 nav:
   - Home: index.md
   - People: people.md
-  - Applied & Basic Ecology: ecology.md
-  - Synthesis and Metascience: synthesis.md
-  - Equity & Inclusion in Science: equity.md
-  - BERC: berc.md
-  - POMA: poma.md
+  - Fundamental Ecology: berc.md
+  - Applied Ecology: ecology.md
+  - Improving the Scientific Interprise: synthesis.md
   - Resources: resources.md
 
 markdown_extensions:
