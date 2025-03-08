@@ -1,7 +1,7 @@
 
 ### Foxx lab members
 
-**Postdoctoral researcher**
+**Postdoctoral researchers**
 
 [Dr. Nia Johnson](https://niajohnson.info/) - sCORE synthesis projects
 
@@ -22,7 +22,7 @@ Sofia Al-Shayeb, Cathy Apolot, Amelia Renner, Samantha Rosa, Nia Suresh
 
 Camilla Mancini, Norbaya Durr, Rachel Warner, Anica Diaz, Jonnithan White, Samaher Nassar 
 
-#### Past members
+### Past members
 **NSF REU Interns**
 
 Moira Newman, Kiera Carpenter
