@@ -12,4 +12,4 @@ Works include:
 
 [Root and shoot competition lead to contrasting competitive outcomes under water stress: A systematic review and meta-analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220674)
 
-![](sunflowers-6619425_1280.png){: style="height:300px;width:300px"}
+![](images/sunflowers-6619425_1280.png){: style="height:300px;width:300px"}
