@@ -11,6 +11,6 @@ I'm a Conservation Scientist at the [Chicago Botanic Garden](https://www.chicago
 
 Google scholar [profile](https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en)
 
-(Screenshot 2025-03-08 165809.png)
+![](Screenshot 2025-03-08 165809.png){: style="height:300px;width:300px"}
 
 [contact](mailto:afoxx@chicagobotanic.org)
