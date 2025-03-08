@@ -11,10 +11,6 @@ I'm a Conservation Scientist at the [Chicago Botanic Garden](https://www.chicago
 
 Google scholar [profile](https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en)
 
-Github [site](https://github.com/aliciafoxx)
-
-ResearchGate [profile](https://www.researchgate.net/profile/Alicia-Foxx)
-
-ORCID [profile](https://orcid.org/0000-0001-5504-2986)
+(Screenshot 2025-03-08 165809.png)
 
 [contact](mailto:afoxx@chicagobotanic.org)
