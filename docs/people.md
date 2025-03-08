@@ -1,17 +1,17 @@
 
 ### Foxx lab members
 
-[Dr. Nia Johnson](https://niajohnson.info/) - postdoctoral researcher on sCORE synthesis projects
-
+**Postdoctoral researcher
+[Dr. Nia Johnson](https://niajohnson.info/) - sCORE synthesis projects
 **Graduate Students
-Teagan LeVar - MS students part of the NSF BII New Roots for Restoration
-Tayah Carlisle - MS students
+Teagan LeVar - MS students (NRR BII - population variation in little Blue stem)
+Tayah Carlisle - MS students (urban soils and restorations)
 **Lab and Field Manager
 [Liz Vogel](https://www.northbranchnatives.com/)
 **Research assistants
-Samantha Rosa, Sofia Al-Shayeb, Amelia Renner, Cathy Apolot, Nia Suresh
+Sofia Al-Shayeb, Cathy Apolot, Amelia Renner, Samantha Rosa, Nia Suresh
 **Volunteers
-Camilla Mancini, Norbaya Durr, Samaher Nassar, Anica Diaz, Jonnithan White, Rachel Warner 
+Camilla Mancini, Norbaya Durr, Rachel Warner, Anica Diaz, Jonnithan White, Samaher Nassar 
 
 #### Past members
 Research assistants: 
