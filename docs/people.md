@@ -3,8 +3,16 @@
 
 [Dr. Nia Johnson](https://niajohnson.info/) - postdoctoral researcher on sCORE synthesis projects
 
-Teagan LeVAr - MS students part of the NSF BII New Roots for Restoration
+Graduate Students
+Teagan LeVar - MS students part of the NSF BII New Roots for Restoration
+Tayah Carlisle - MS students
 
 [Liz Vogel](https://www.northbranchnatives.com/) - Lab and field manager
 
-Research assistants: Samantha Rosa, Reg Francia, Amelia Renner, Tayah Carlisle, Camilla Mancini, Leah Lenzo
+Research assistants: Samantha Rosa, Sofia Al-Shayeb, Amelia Renner, Cathy Apolot, Nia Suresh
+
+Volunteers: Camilla Mancini, Norbaya Durr, Samaher Nassar, Anica Diaz, Jonnithan White
+
+#### Past members
+Research assistants: 
+Interns: Moira Newman, Kiera Carpenter
