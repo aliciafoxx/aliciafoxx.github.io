@@ -4,9 +4,8 @@ I'm a Conservation Scientist at the [Chicago Botanic Garden](https://www.chicago
 
 ![](Foxx_headshot.jpg){: style="height:150px;width:150px"}
 
-Here's more on my work:
-
-![](Foxx_research_map.png){: style="height:300px;width:300px"}
+Here's more on my work: ![](Foxx_research_map.png){: style="height:600px;width:650px"}
 
 [contact](mailto:afoxx@chicagobotanic.org)
+
 Google scholar [profile](https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en)
