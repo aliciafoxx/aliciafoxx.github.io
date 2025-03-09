@@ -8,25 +8,23 @@
 ![](images/Nia_J.png){: style="height:150px;width:150px"}
 
 
-**Masters Students**
-
-Teagan LeVar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayah Carlisle
-
-![](images/Teagan.jpg){: style="height:150px;width:150px"} ![](images/Tayah.jpg){: style="height:150px;width:150px"}
-
-
 **Lab and Field Manager**
 
 [Liz Vogel](https://www.northbranchnatives.com/)
 
 ![](images/liz.jpg){: style="height:150px;width:150px"}
 
+**Masters Students**
+
+Teagan LeVar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tayah Carlisle
+
+![](images/Teagan.jpg){: style="height:150px;width:150px"} ![](images/Tayah.jpg){: style="height:150px;width:150px"}
 
 **Research assistants**
 
 Sofia Al-Shayeb
 
-Cathy Apolot      Amelia Renner Samantha Rosa        Nia Suresh
+Cathy Apolot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amelia Renner &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Samantha Rosa &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nia Suresh
 
 ![](images/Cathy.png){: style="height:150px;width:150px"}![](images/amelia.jpeg){: style="height:150px;width:150px"}![](images/Samantha.jpg){: style="height:150px;width:150px"} ![](images/Nia_S.jpg){: style="height:150px;width:150px"}
 
@@ -37,7 +35,7 @@ Camilla Mancini, Norbaya Durr, Rachel Warner, Anica Diaz, Jonnithan White, Samah
 ### Past members
 **NSF REU Interns**
 
-Moira Newman                          Kiera Carpenter
+Moira Newman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kiera Carpenter
 
 
 ![](images/moira.jpg){: style="height:150px;width:150px"} ![](images/kiera.jpg){: style="height:150px;width:150px"}
