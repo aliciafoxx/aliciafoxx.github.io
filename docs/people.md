@@ -3,7 +3,7 @@
 
 **Postdoctoral researchers**
 
-[Dr. Nia Johnson](https://niajohnson.info/) - sCORE synthesis projects
+[Dr. Nia Johnson](https://niajohnson.info/) - sCORE synthesis research
 ![](images/Nia_J.png){: style="height:150px;width:150px"}
 
 
