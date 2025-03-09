@@ -56,18 +56,16 @@ Camilla Mancini, Norbaya Durr, Rachel Warner, Anica Diaz, Jonnithan White, Samah
 ### Past members
 **NSF REU Interns**
 
-Moira Newman
+Moira Newman              Kiera Carpenter
+
 
 ![](images/moira.jpg){: style="height:150px;width:150px"} ![](images/kiera.jpg){: style="height:150px;width:150px"}
 
 
-Kiera Carpenter
-
-![](images/kiera.jpg){: style="height:150px;width:150px"}
-
 **CBG College first - High school students**
 
-Lia Hudson 
 Meah Johnson 
 
 ![](images/meah.jpg){: style="height:150px;width:150px"}
+
+Lia Hudson 
