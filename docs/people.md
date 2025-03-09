@@ -14,7 +14,7 @@
 
 ![](images/liz.jpg){: style="height:150px;width:150px"}
 
-**Masters Students**
+**Masters Students** 
 
 Teagan LeVar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tayah Carlisle
 
