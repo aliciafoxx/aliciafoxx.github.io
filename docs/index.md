@@ -6,7 +6,7 @@ I'm a Conservation Scientist at the [Chicago Botanic Garden](https://www.chicago
 
 ![](images/Foxx_headshot.jpg){: style="height:150px;width:150px"}
 
-![](images/Foxx_research_map.png){: style="height:600px;width:650px"}
+![](images/Foxx_research_map.png){: style="height:600px;width:650px" class="center-img"}
 
 Here's more on my work on [Google scholar](https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en)
 
