@@ -2,7 +2,7 @@
 
 ### Foxx Lab R package
 
-(foxxlab)[https://aliciafoxx.github.io/foxxlab/] is an R package providing a library of datasets from the Foxx Disrupting Ecology Lab, ranging from plant ecology to social science topics.
+[foxxlab](https://aliciafoxx.github.io/foxxlab/) is an R package providing a library of datasets from the Foxx Disrupting Ecology Lab, ranging from plant ecology to social science topics.
 
 Currently, foxxlab offers a variety of datastes including meta-analysis datasets to promote open science and serve as training materials for visualizations and analyses including meta-analyses.
 
