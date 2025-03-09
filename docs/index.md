@@ -7,10 +7,10 @@ I'm a Conservation Scientist at the [Chicago Botanic Garden](https://www.chicago
 ![](images/Foxx_headshot.jpg){: style="height:150px;width:150px"}
 
 <div style="display: flex; align-items: center; gap: 20px;">
+<div style="flex: 1;">
 
   <div style="flex: 1;">
-    **This is a paragraph.**
-    I'm a Conservation Scientist at the [Chicago Botanic Garden](https://www.chicagobotanic.org/research) and Assistant adjunct professor at Northwestern University in the [Plant Biology and Conservation Graduate Program](https://plantbiology.northwestern.edu/). I work to understand fundamental and applied ecology topics using experimental studies, and synthesis and data science. I also interrogate methods and best practices, ultimately to improve equity, inclusion, and reproducibility in research.
+    I'm a Conservation Scientist at the <a href="https://www.chicagobotanic.org/research" target="_blank">Chicago Botanic Garden</a> and Assistant adjunct professor at Northwestern University in the [Plant Biology and Conservation Graduate Program](https://plantbiology.northwestern.edu/). I work to understand fundamental and applied ecology topics using experimental studies, and synthesis and data science. I also interrogate methods and best practices, ultimately to improve equity, inclusion, and reproducibility in research.
   </div>
 
   <div style="flex: 1;">
