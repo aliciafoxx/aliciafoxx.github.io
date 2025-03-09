@@ -4,20 +4,36 @@
 **Postdoctoral researchers**
 
 [Dr. Nia Johnson](https://niajohnson.info/) - sCORE synthesis projects
+![](images/Nia_J.png)
 
 **Graduate Students**
 
-Teagan LeVar - MS students (NRR BII - population variation in little Blue stem)
+Teagan LeVar - MS student (NRR BII - population variation in little Blue stem)
+![](images/Teagan.jpg)
 
-Tayah Carlisle - MS students (urban soils and restorations)
+Tayah Carlisle - MS student (urban soils and restorations)
+![](images/Tayah.jpg)
 
 **Lab and Field Manager**
 
 [Liz Vogel](https://www.northbranchnatives.com/)
+![](images/liz.jpg)
 
 **Research assistants**
 
-Sofia Al-Shayeb, Cathy Apolot, Amelia Renner, Samantha Rosa, Nia Suresh
+Sofia Al-Shayeb
+
+Cathy Apolot
+![](images/Cathy.png)
+
+Amelia Renner
+![](images/amelia.jpeg)
+
+Samantha Rosa
+![](images/Samantha.jpg)
+
+Nia Suresh
+![](images/Nia_S.jpg)
 
 **Volunteers**
 
