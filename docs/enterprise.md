@@ -1,6 +1,8 @@
 It's important to me to help make space in research for scientists who have been historically excluded in science. I also work to conduct research on methods and metascience to improve reproducibility in the research enterprise.
 
-# Equity & Inclusion in Science works
+# Equity & Inclusion in Science 
+
+Works:
 
 [Evaluating the prevalence and quality of conference codes of conduct](https://journals.asm.org/doi/full/10.1128/mSystems.01151-21)
 
