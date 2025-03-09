@@ -10,7 +10,7 @@
 
 **Masters Students**
 
-Teagan LeVar              Tayah Carlisle
+Teagan LeVar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tayah Carlisle
 
 ![](images/Teagan.jpg){: style="height:150px;width:150px"} ![](images/Tayah.jpg){: style="height:150px;width:150px"}
 
@@ -26,14 +26,9 @@ Teagan LeVar              Tayah Carlisle
 
 Sofia Al-Shayeb
 
-Cathy Apolot      Amelia Renner
+Cathy Apolot      Amelia Renner Samantha Rosa        Nia Suresh
 
-![](images/Cathy.png){: style="height:150px;width:150px"}![](images/amelia.jpeg){: style="height:150px;width:150px"}
-
-Samantha Rosa        Nia Suresh
-
-
-![](images/Samantha.jpg){: style="height:150px;width:150px"} ![](images/Nia_S.jpg){: style="height:150px;width:150px"}
+![](images/Cathy.png){: style="height:150px;width:150px"}![](images/amelia.jpeg){: style="height:150px;width:150px"}![](images/Samantha.jpg){: style="height:150px;width:150px"} ![](images/Nia_S.jpg){: style="height:150px;width:150px"}
 
 **Volunteers**
 
