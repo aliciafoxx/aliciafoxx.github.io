@@ -10,14 +10,9 @@
 
 **Masters Students**
 
-Teagan LeVar
+Teagan LeVar              Tayah Carlisle
 
-![](images/Teagan.jpg){: style="height:150px;width:150px"}
-
-
-Tayah Carlisle
-
-![](images/Tayah.jpg){: style="height:150px;width:150px"}
+![](images/Teagan.jpg){: style="height:150px;width:150px"} ![](images/Tayah.jpg){: style="height:150px;width:150px"}
 
 
 **Lab and Field Manager**
@@ -31,23 +26,14 @@ Tayah Carlisle
 
 Sofia Al-Shayeb
 
-Cathy Apolot
+Cathy Apolot      Amelia Renner
 
-![](images/Cathy.png){: style="height:150px;width:150px"}
+![](images/Cathy.png){: style="height:150px;width:150px"}![](images/amelia.jpeg){: style="height:150px;width:150px"}
 
-
-Amelia Renner
-
-![](images/amelia.jpeg){: style="height:150px;width:150px"}
+Samantha Rosa        Nia Suresh
 
 
-Samantha Rosa
-
-![](images/Samantha.jpg){: style="height:150px;width:150px"}
-
-Nia Suresh
-
-![](images/Nia_S.jpg){: style="height:150px;width:150px"}
+![](images/Samantha.jpg){: style="height:150px;width:150px"} ![](images/Nia_S.jpg){: style="height:150px;width:150px"}
 
 **Volunteers**
 
@@ -56,7 +42,7 @@ Camilla Mancini, Norbaya Durr, Rachel Warner, Anica Diaz, Jonnithan White, Samah
 ### Past members
 **NSF REU Interns**
 
-Moira Newman              Kiera Carpenter
+Moira Newman                          Kiera Carpenter
 
 
 ![](images/moira.jpg){: style="height:150px;width:150px"} ![](images/kiera.jpg){: style="height:150px;width:150px"}
