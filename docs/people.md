@@ -3,7 +3,7 @@
 
 **Postdoctoral researchers**
 
-[Dr. Nia Johnson](https://niajohnson.info/) - sCORE synthesis research
+[Dr. Nia Johnson](https://niajohnson.info/) - sCORE [synthesis research](https://score.nipcsa.com/broadening-restoration)
 
 ![](images/Nia_J.png){: style="height:150px;width:150px"}
 
@@ -56,9 +56,17 @@ Camilla Mancini, Norbaya Durr, Rachel Warner, Anica Diaz, Jonnithan White, Samah
 ### Past members
 **NSF REU Interns**
 
-Moira Newman, Kiera Carpenter
+Moira Newman
+
+![](images/moira.jpg)
+
+Kiera Carpenter
+
+![](images/kiera.jpg)
 
 **CBG College first - High school students**
 
 Lia Hudson 
 Meah Johnson 
+
+![](images/meah.jpg)
