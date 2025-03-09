@@ -8,14 +8,14 @@
 ![](images/Nia_J.png){: style="height:150px;width:150px"}
 
 
-**Graduate Students**
+**Masters Students**
 
-Teagan LeVar - MS student (NRR BII - population variation in little Blue stem)
+Teagan LeVar
 
 ![](images/Teagan.jpg){: style="height:150px;width:150px"}
 
 
-Tayah Carlisle - MS student (urban soils and restorations)
+Tayah Carlisle
 
 ![](images/Tayah.jpg){: style="height:150px;width:150px"}
 
@@ -43,11 +43,11 @@ Amelia Renner
 
 Samantha Rosa
 
-![](images/Samantha.jpg)
+![](images/Samantha.jpg){: style="height:150px;width:150px"}
 
 Nia Suresh
 
-![](images/Nia_S.jpg)
+![](images/Nia_S.jpg){: style="height:150px;width:150px"}
 
 **Volunteers**
 
