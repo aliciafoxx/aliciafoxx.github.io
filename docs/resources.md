@@ -17,6 +17,6 @@ Please email me if you'd like to provide an addition at afoxx[@]chicagobotanic.o
 
 ### Shiny app helper for literature screening
 
-Shiny app file [here](Study_screening_utilities_app.qmd) that helps merge multiple WOS files and allows for screening of titles and abstracts with a read aloud funtion with the ability to change reading speed and to stop reading abstracts.
+Shiny app file [here](Study_screening_utilities_app.R) that helps merge multiple WOS files and allows for screening of titles and abstracts with a read aloud funtion with the ability to change reading speed and to stop reading abstracts.
 
 ![](images/shiny_app.png)
