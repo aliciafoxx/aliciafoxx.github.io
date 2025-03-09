@@ -7,6 +7,11 @@ Our team created the Black Earth Restoration Collective (BERC) and launced in 20
 
 I am also a part of the [New Roots for Restoration](https://newroots.squarespace.com/) (NSF Biological Integration Institute) - a cross disciplinary team across nine institutions with the aim of adding to the knowledge of perennial agriculture and native plant selection by understanding how root and shoot traits are interrelated and how the soil biotic and edaphic properties influence these relationships. Below is an image of our field site in Mettawa, IL.
 
+<div style="display: flex; align-items: center;">
+    <img src="images/bii.png" alt="BII Logo" style="height: 150px; width: 150px; margin-right: 10px;">
+    <p>I am also a part of the <a href="https://newroots.squarespace.com/">New Roots for Restoration</a> (NSF Biological Integration Institute) - a cross-disciplinary team across nine institutions with the aim of adding to the knowledge of perennial agriculture and native plant selection by understanding how root and shoot traits are interrelated and how the soil biotic and edaphic properties influence these relationships. Below is an image of our field site in Mettawa, IL.</p>
+</div>
+
 ![](images/mettawa.jpg){: style="display: block; margin: auto; height:600px; width:650px"}
 
 Image courtesy of Liz Vogel
