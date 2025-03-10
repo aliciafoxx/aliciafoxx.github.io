@@ -4,6 +4,9 @@ My name is Alicia Foxx and I work to make science better and how I can give back
 
 I'm a Conservation Scientist at the [Chicago Botanic Garden](https://www.chicagobotanic.org/research) and Assistant adjunct professor at Northwestern University in the [Plant Biology and Conservation Graduate Program](https://plantbiology.northwestern.edu/). I work to understand fundamental and applied ecology topics using experimental studies, and synthesis and data science. I also interrogate methods and best practices, ultimately to improve equity, inclusion, and reproducibility in research.
 
+![](images/Foxx_headshot.jpg){: style="display: block; float: right; height:150px; width:150px; margin-left: 20px;"}
+
+
 ![](images/Foxx_headshot.jpg){: style="height:150px;width:150px"}
 
 ![](images/Foxx_research_map.png){: style="display: block; margin: auto; height:600px; width:650px"}
