@@ -6,9 +6,6 @@ I'm a Conservation Scientist at the [Chicago Botanic Garden](https://www.chicago
 
 ![](images/Foxx_headshot.jpg){: style="display: block; float: right; height:150px; width:150px; margin-left: 20px;"}
 
-
-![](images/Foxx_headshot.jpg){: style="height:150px;width:150px"}
-
 ![](images/Foxx_research_map.png){: style="display: block; margin: auto; height:600px; width:650px"}
 
 I welcome prospective students to email me if interested in these research areas and my values. I am not recruiting PhD students directly from undergraduate studies, unless the prospective student has strong work and/or lived experiences.  
