@@ -1,5 +1,5 @@
 
-I use experimental and meta-analyses to address the conservation of culturally significant plants in urban environments such as agriculture, and urban restoration. I also research biocultural restoration in tallgrass restorations, BIPOC restoration practices in the US. I also explore how trait variation varies in population sources of restoration materials and how that affects function and interactions.
+I use experimental approaches and meta-analyses to address the conservation of culturally significant plants in urban environments such as agriculture, and urban and wildland restoration. I also research biocultural restoration in tallgrass restorations, BIPOC restoration practices in the US. I also explore how trait variation varies in population sources of restoration materials and how that affects function and interactions.
 
 ![](images/berc.png){: style="display: block; float: right; height:150px; width:150px; margin-left: 20px;"}
 
