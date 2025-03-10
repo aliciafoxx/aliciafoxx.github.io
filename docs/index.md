@@ -10,6 +10,6 @@ I'm a Conservation Scientist at the [Chicago Botanic Garden](https://www.chicago
 
 I welcome prospective students to email me if interested in these research areas and my values. I am not recruiting PhD students directly from undergraduate studies, unless the prospective student has strong work and/or lived experiences.  
 
-Here's more on my work on [Google scholar](https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en)
+Here's more on my work on [Google scholar](https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en) & my [curriculum vitae](https://github.com/aliciafoxx/AF/blob/main/Foxx_CV.pdf)
 
 [contact](mailto:afoxx@chicagobotanic.org)
