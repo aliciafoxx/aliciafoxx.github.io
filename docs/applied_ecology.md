@@ -11,7 +11,10 @@ I am also a part of the [New Roots for Restoration](https://newroots.squarespace
 
 ![](images/mettawa.jpg){: style="display: block; margin: auto; height:600px; width:650px"}
 
-Image courtesy of Liz Vogel
+<div style="text-align: right;">
+    Image courtesy of Liz Vogel
+</div>
+
 
 Works include:
 
