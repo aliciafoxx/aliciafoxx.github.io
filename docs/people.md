@@ -33,6 +33,7 @@ Camilla Mancini, Norbaya Durr, Rachel Warner, Anica Diaz, Jonnithan White, Samah
 
 ### Past members
 ** Graduate students**
+
 Teagan LeVar
 
 ![](images/Teagan.jpg){: style="height:150px;width:150px"}
