@@ -32,7 +32,8 @@ Cathy Apolot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Camilla Mancini, Norbaya Durr, Rachel Warner, Anica Diaz, Jonnithan White, Samaher Nassar 
 
 ### Past members
-** Graduate students**
+
+**Graduate students**
 
 Teagan LeVar
 
