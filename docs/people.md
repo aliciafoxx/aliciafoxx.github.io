@@ -15,10 +15,9 @@
 ![](images/liz.jpg){: style="height:150px;width:150px"}
 
 **Masters Students** 
+Tayah Carlisle
 
-Teagan LeVar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tayah Carlisle
-
-![](images/Teagan.jpg){: style="height:150px;width:150px"} ![](images/Tayah.jpg){: style="height:150px;width:150px"}
+![](images/Tayah.jpg){: style="height:150px;width:150px"}
 
 **Research assistants**
 
@@ -33,6 +32,11 @@ Cathy Apolot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Camilla Mancini, Norbaya Durr, Rachel Warner, Anica Diaz, Jonnithan White, Samaher Nassar 
 
 ### Past members
+** Graduate students**
+Teagan LeVar
+
+![](images/Teagan.jpg){: style="height:150px;width:150px"}
+
 **NSF REU Interns**
 
 Moira Newman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kiera Carpenter
