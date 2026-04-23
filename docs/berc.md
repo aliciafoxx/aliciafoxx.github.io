@@ -1,5 +1,6 @@
 # Black Earth Restoration Network (BERC)
 # please go to https://blackearthrestoration.github.io/
+[BERC](https://blackearthrestoration.github.io/)
 
 Black, Indigenous, and Persons of Color (BIPOC) have a wealth of knowledge on ethnobotany and plant conservation. 
 
